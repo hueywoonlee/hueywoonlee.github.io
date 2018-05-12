@@ -1,6 +1,9 @@
 # Permalinks
 permalink:           pretty
 
+# Show postdated posts
+future:           false
+
 # Setup
 title:               Statistics for the Confused
 tagline:             ''
