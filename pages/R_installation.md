@@ -1,11 +1,10 @@
 ---
 layout: page
-title: R Installation 
+title: Install R and RStudio
 ---
-## Install R and RStudio 
 credit: [https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924)
 
-### Windows
+## Windows
 *(A) Install R*
 1.	Open an internet browser and go to [www.r-project.org](https://www.r-project.org/).
 2.	Click the "download R" link in the middle of the page under "Getting Started."
@@ -20,7 +19,7 @@ credit: [https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa4
 2.	Click on "Download RStudio Desktop."
 3.	Click on the version recommended for your system, or the latest Windows version, and save the executable file.  Run the .exe file and follow the installation instructions
 
-### Mac
+## Mac
 *(A) Install R*
 1.	Open an internet browser and go to [www.r-project.org](https://www.r-project.org/).
 2.	Click the "download R" link in the middle of the page under "Getting Started."
