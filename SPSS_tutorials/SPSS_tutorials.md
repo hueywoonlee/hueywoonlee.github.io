@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of SPSS tutorials 
+title: SPSS tutorials 
 ---
-List of SPSS tutorials here.
+List of SPSS tutorials: 
 
