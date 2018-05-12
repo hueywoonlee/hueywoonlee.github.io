@@ -14,6 +14,7 @@ title: R Installation
 5.	Click on the "install R for the first time" link at the top of the page.
 6.	Click "Download R for Windows" and save the executable file somewhere on your computer.  Run the .exe file and follow the installation instructions.  
 7.	Now that R is installed, you need to download and install RStudio. 
+
 *(B) Install RStudio*
 1.	Go to www.rstudio.com and click on the "Download RStudio" button.
 2.	Click on "Download RStudio Desktop."
@@ -28,6 +29,7 @@ title: R Installation
 5.	Click on the file containing the latest version of R under "Files."
 6.	Save the .pkg file, double-click it to open, and follow the installation instructions.
 7.	Now that R is installed, you need to download and install RStudio.
+
 *(B) Install RStudio*
 1.	Go to www.rstudio.com and click on the "Download RStudio" button.
 2.	Click on "Download RStudio Desktop."
