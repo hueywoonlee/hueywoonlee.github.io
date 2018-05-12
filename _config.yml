@@ -1,6 +1,4 @@
 # Permalinks
-#
-relative_permalinks: true
 permalink:           pretty
 
 # Setup
