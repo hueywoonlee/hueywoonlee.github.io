@@ -1,5 +1,5 @@
 ---
 layout: page 
-title: Lectures
+title: Acknowledgements
 ---
 # Lecture Slides for Quantitative Methods in Psychology
