@@ -1,12 +1,12 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
+relative_permalinks: true
 permalink:           pretty
 
 # Setup
-title:               Statistics Resources
-tagline:             'Statistics for the confused'
-description:         'Statistics for the confused'
+title:               Statistics for the Confused
+tagline:             ''
+description:         'Statistics for the Confused'
 url:                 https://hueywoonlee.github.io/
 baseurl:             ''
 paginate:            5
