@@ -5,7 +5,7 @@ title: R Tutorial Handouts
 *Note*. Please download the files to your computer and open with Microsoft Word. Otherwise, the R code you copy and paste might not work.
 
 ## Data Set
-[Scenario](https://www.dropbox.com/s/pinf3pfgjejh7aw/02%20R%20Handout%20Scenario.docx?dl=0)
+[Scenario](https://www.dropbox.com/s/pinf3pfgjejh7aw/02%20R%20Handout%20Scenario.docx?dl=0)  
 [Materialism.csv](https://www.dropbox.com/s/jphd4y8jqhiguny/Materialism.csv?dl=0)
 
 ## Currently Working On 
