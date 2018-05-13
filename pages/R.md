@@ -8,7 +8,7 @@ title: R Tutorial Handouts
 [Scenario](https://www.dropbox.com/s/pinf3pfgjejh7aw/02%20R%20Handout%20Scenario.docx?dl=0)
 [Materialism.csv](https://www.dropbox.com/s/jphd4y8jqhiguny/Materialism.csv?dl=0)
 
-## Current Handouts
+## Currently Working On 
 1. [R Basics](https://www.dropbox.com/s/spzt70wy5fvmkue/01%20R%20Basic.docx?dl=0)
 2. [Descriptives](https://www.dropbox.com/s/k66phmlxlxdm040/03%20R%20Descriptives.docx?dl=0)
 3. [T tests](https://www.dropbox.com/s/vpoept1bzd49u28/04%20R%20One%20and%20two%20sample%20t%20test.docx?dl=0)
@@ -18,7 +18,7 @@ title: R Tutorial Handouts
 7. Correlation, simple linear regression, & multiple linear regression
 8. Chi-square tests
 
-## Potential Future Handouts
+## Under Consideration
 1. One-way repeated measures ANOVA & multiple comparisons
 2. Non-parametric tests (e.g., Wilcoxon signed rank test) 
 3. Checking normality assumptions
