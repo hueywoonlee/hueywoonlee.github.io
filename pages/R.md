@@ -2,4 +2,6 @@
 layout: page
 title: R tutorials 
 ---
-1. [R Basics](https://drive.google.com/file/d/12hsN-3BzGRZw2B4SH3hc2M3LNsI0cE-L/view?usp=sharing)
+Note. Please download the files to your computer and open with Microsoft Word or else the alignment when you paste the code into R will be off.  
+
+1. [R Basics](https://www.dropbox.com/s/spzt70wy5fvmkue/01%20R%20Basic.docx?dl=0)
