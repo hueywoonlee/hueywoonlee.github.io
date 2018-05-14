@@ -26,3 +26,10 @@ title: R Tutorial Handouts
 5. ANCOVA
 6. Exploratory factor analysis
 7. MANOVA
+
+## Resources
+1. [R documentation](https://www.rdocumentation.org)
+2. [Mike Marin's R video tutorials](http://www.statslectures.com/index.php/r-stats-videos-tutorials)
+3. [Eric Nord's Online Course](https://newonlinecourses.science.psu.edu/stat484/node/1/)
+4. [Quick R](https://www.statmethods.net/)
+5. [Hadley Wickham's Style Guide for Writing Code in R](http://adv-r.had.co.nz/Style.html)
