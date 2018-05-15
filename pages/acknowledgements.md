@@ -3,7 +3,7 @@ layout: page
 title: Acknowledgements
 ---
 
-This is an acknowledgement page that still requires updating (because I need to get the permission of my collaborators to list them here). 
+This page will be updated as I continue getting permission of my collaborators to list them. 
 
 The materials available on this site would not have been possible without the help of:
 * the R community
