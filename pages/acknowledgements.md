@@ -3,12 +3,10 @@ layout: page
 title: Acknowledgements
 ---
 
-The materials available on this site would not have been possible without the help of the following individuals:
-* 1
-* 2
-* 3
-* 4
+This is an acknowledgement page that is waiting to be updated =) 
 
-This is a test line.
-
-Testing.
+The materials available on this site would not have been possible without the help of:
+* the R community
+* x
+* x
+* x
